@@ -1,0 +1,21 @@
+{
+  "name": "proto1",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@pika/react": "^16.13.1",
+    "@pika/react-dom": "^16.13.1",
+    "framer-motion": "^2.3.0",
+    "mobx": "^5.15.4",
+    "mobx-react": "^6.2.5"
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.43",
+    "@types/react-dom": "^16.9.8",
+    "vite": "^1.0.0-rc.1",
+    "vite-plugin-react": "^3.0.0"
+  }
+}
